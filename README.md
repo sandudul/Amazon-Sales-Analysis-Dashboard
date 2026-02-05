@@ -130,7 +130,7 @@ This project demonstrates proficiency in:
 
 ## 📝 Future Enhancements
 
-- Exploratory Data Analysis (EDA) with visualizations
+- Exploratory Data Analysis [EDA] with visualizations
 - Sentiment analysis on review text
 - Predictive modeling for product ratings
 - Price optimization recommendations
